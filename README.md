@@ -1,2 +1,2 @@
 # Soccer-programming
- this exercise 4
+ this is exercise 4
